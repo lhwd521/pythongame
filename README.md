@@ -13,6 +13,8 @@
 <img src='https://raw.githubusercontent.com/lhwd521/pythongame/master/MoneyRunGame/images/pic3.jpg
 ' />
 
+<img src="https://raw.githubusercontent.com/guaxiao/cheapshow/master/screencast.gif" />
+
 说明
 ===
 需要安装 cocos2d / pyglet
