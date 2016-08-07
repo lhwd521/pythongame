@@ -441,6 +441,7 @@ class Star(object):
         self.l_x = random.choice(['+', '-', ' '])
         self.l_y = random.choice(['+', '-', ' '])
 
+    # 移动碎片 
     def move(self):
         x, y = self.rect.position
         if self.l_x == ' ' and self.l_y == ' ':
