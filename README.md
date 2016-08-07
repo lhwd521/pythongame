@@ -4,16 +4,11 @@
 
 效果
 ===
-<img src='https://raw.githubusercontent.com/lhwd521/pythongame/master/MoneyRunGame/images/pic1.jpg
-' />
+<img src='https://raw.githubusercontent.com/lhwd521/pythongame/master/MoneyRunGame/images/pic1.jpg' />
 
-<img src='https://raw.githubusercontent.com/lhwd521/pythongame/master/MoneyRunGame/images/pic2.jpg
-' />
+<img src='https://raw.githubusercontent.com/lhwd521/pythongame/master/MoneyRunGame/images/pic2.jpg' />
 
-<img src='https://raw.githubusercontent.com/lhwd521/pythongame/master/MoneyRunGame/images/pic3.jpg
-' />
-
-<img src="https://raw.githubusercontent.com/guaxiao/cheapshow/master/screencast.gif" />
+<img src='https://raw.githubusercontent.com/lhwd521/pythongame/master/MoneyRunGame/images/pic3.jpg' />
 
 说明
 ===
