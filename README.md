@@ -4,7 +4,11 @@
 
 效果
 ===
-<img src='https://github.com/lhwd521/pythongame/MoneyRunGame/images/money.gif' />
+<img src='https://github.com/lhwd521/pythongame/MoneyRunGame/images/pic1.jpg' />
+
+<img src='https://github.com/lhwd521/pythongame/MoneyRunGame/images/pic2.jpg' />
+
+<img src='https://github.com/lhwd521/pythongame/MoneyRunGame/images/pic3.jpg' />
 
 说明
 ===
