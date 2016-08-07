@@ -81,6 +81,7 @@ class GameStart(Menu):
         return RotateTo(0, 0)
 
 
+# 游戏帮助
 class HelpLayer(Layer):
     is_event_handler = True
 
@@ -99,6 +100,8 @@ class HelpLayer(Layer):
             scene = Scene(GameStart())
             director.replace(SplitColsTransition(scene))
 
+
+# 选择界面
 class Choose(Layer):
     is_event_handler = True
     global role_choose, choose_i
