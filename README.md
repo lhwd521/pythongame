@@ -2,7 +2,7 @@
 
 跳跃游戏
 
-效果
+截图
 ===
 <img src='https://raw.githubusercontent.com/lhwd521/pythongame/master/MoneyRunGame/images/pic1.jpg' />
 
